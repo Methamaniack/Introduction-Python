@@ -1,0 +1,6 @@
+print("Quelle est la longueur et la largeur de votre rectangle (en cm) ?")
+le = input()
+wi = input()
+le = float(le)
+wi = float(wi)
+print("L'aire de ton rectangle est de "+ str(le*wi) +" cm.")
