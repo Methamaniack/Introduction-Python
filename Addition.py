@@ -1,0 +1,8 @@
+print("Donne moi trois nombres aléatoires")
+num1 = input()
+num2 = input()
+num3 = input()
+num1 = float(num1)
+num2 = float(num2)
+num3 = float(num3)
+print("La somme des trois nombres choisis est " + str(num1+num2+num3)+".")

@@ -1,0 +1,8 @@
+print("Quel est ton nom (prénom, nom) ?")
+nom = input()
+print("Quel est ton âge (nombre, rien de plus) ?")
+age = input()
+print("Où habites-tu (commune, ville, pays) ?")
+lieu = input()
+print("Bonjour "+nom+", tu as "+age+" ans et tu habites à "+lieu+". \nFaut quand même être un peu bête pour se dox tout seul.")
+print("STOP THE RACE TO REPLACE\nHuman art is being stolen and destroyed by AI companies. Join the movement.")
