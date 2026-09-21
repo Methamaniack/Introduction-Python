@@ -1,0 +1,5 @@
+print("Saisissez trois nombres.")
+num1 = float(input())
+num2 = float(input())
+num3 = float(input())
+print("Le plus grand nombre parmi ces trois est "+ str(max(num1,num2,num3))+", et le plus petit est "+str(min(num1,num2,num3))+".")
